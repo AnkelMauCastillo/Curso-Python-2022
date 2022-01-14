@@ -1,6 +1,3 @@
-from msilib.schema import Error
-import re
-
 
 def suma (a, b):
     return a + b
